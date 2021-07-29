@@ -7,3 +7,5 @@ It is made to :
 
 Technologies Used :
 --> C language
+--> Python language
+--> JavaScript language
