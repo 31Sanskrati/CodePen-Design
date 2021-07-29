@@ -97,8 +97,9 @@ void call()
     char input1;
     input1 = end_call();
 
-    if (input1 == 'Y')
+    if (input1 == 'Y'){
         printf("Call Ended.\n");
+    }
     else if (input1 == 'N')
     {
         printf("You have spend way more time on call than studying..\n");
