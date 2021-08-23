@@ -1,0 +1,30 @@
+body{
+    display: grid;
+    min-height: 100vh;
+    place-content: center;
+    background-color: teal;
+    padding: 10px;
+}
+h1{
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+}
+div{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: auto;
+    background-color: black;
+    color: white;
+    border: 0px;
+}
+#print{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}

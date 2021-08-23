@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Change Button Color</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <script src="script.js"></script>
+  <body>
+    <h1>Change Buttons Color <span>using JavaScript</span></h1>
+    <div class="pick-color">
+      <form action="">
+        <select
+          name="drop-box"
+          id="background"
+          onchange="buttonColorChange(this)"
+        >
+          <option value="random">Random</option>
+          <option value="blue">Blue</option>
+          <option value="green">Green</option>
+          <option value="yellow">Yellow</option>
+          <option value="purple">Purple</option>
+          <option value="red">Red</option>
+          <option value="red">Reset</option>
+        </select>
+      </form>
+      <div class="buttons">
+        <button class="btn btn-first">Twitter</button>
+        <button class="btn btn-second">Linkidin</button>
+        <button class="btn btn-third">GitHub</button>
+        <button class="btn btn-fourth">CodePen</button>
+        <button class="btn btn-fifth">Discord</button>
+      </div>
+    </div>
+  </body>
+</html>
