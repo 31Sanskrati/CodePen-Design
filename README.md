@@ -1,11 +1,12 @@
-# Projects
+#Front End Development
+## General Info
+This repository contains the front-end development projects.
 
-This is the implimentation of my coding skills
+## Technologies
+I have used
+- HTML
+- CSS
+- JavaScript
 
-It is made to :
---> Showcase some of my projects
-
-Technologies Used :
---> C language
---> Python language
---> JavaScript language
+## Repositiory Status
+In future more files will be added
