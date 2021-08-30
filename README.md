@@ -1,11 +1,12 @@
-# Front End Development
+# CodePen Design 
 ## General Info
-This repository contains the front-end development projects.
+This repository contains the front-end development design created on CodePen by me.
 
 ## Technologies
 I have used
 - HTML
 - CSS
+- SASS
 - JavaScript
 
 ## 
