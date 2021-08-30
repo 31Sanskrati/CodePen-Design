@@ -1,6 +1,6 @@
 # CodePen Design 
 ## General Info
-This repository contains the front-end development design created on CodePen by me.
+This repository contains the front-end development design created on [CodePen](https://codepen.io/Sanskrati01) by me.
 
 ## Technologies
 I have used
