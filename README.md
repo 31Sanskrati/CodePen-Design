@@ -18,6 +18,7 @@ I have used
 |       4      |          [Rock Paper Scissiors](https://github.com/31Sanskrati/front-end-projects/tree/master/Rock_Paper_scissors)            |       [Design](https://codepen.io/Sanskrati01/pen/gOWzvaO)         |
 |       5      |          [Tech Website](https://github.com/31Sanskrati/front-end-projects/tree/master/Tech%20Website%20Layout)            |       [Design](https://codepen.io/Sanskrati01/pen/zYobzMr)         |
 |       6      |          [Review cards](https://github.com/31Sanskrati/CodePen-Design/tree/master/Review%20Cards)            |       [Design](https://codepen.io/Sanskrati01/pen/yLbxboO?editors=0010)         |
+|       7      |          [Counter](https://github.com/31Sanskrati/CodePen-Design/tree/master/Counter)            |       [Design](https://codepen.io/Sanskrati01/pen/PomGOQL?editors=0010)         |
 
 ## Repositiory Status
 In future more files will be added
