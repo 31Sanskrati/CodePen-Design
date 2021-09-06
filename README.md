@@ -19,6 +19,7 @@ I have used
 |       5      |          [Tech Website](https://github.com/31Sanskrati/front-end-projects/tree/master/Tech%20Website%20Layout)            |       [Design](https://codepen.io/Sanskrati01/pen/zYobzMr)         |
 |       6      |          [Review cards](https://github.com/31Sanskrati/CodePen-Design/tree/master/Review%20Cards)            |       [Design](https://codepen.io/Sanskrati01/pen/yLbxboO?editors=0010)         |
 |       7      |          [Counter](https://github.com/31Sanskrati/CodePen-Design/tree/master/Counter)            |       [Design](https://codepen.io/Sanskrati01/pen/PomGOQL?editors=0010)         |
+|       8      |          [Side Navbar](https://github.com/31Sanskrati/CodePen-Design/tree/master/Side%20Navbar)            |       [Design](https://codepen.io/Sanskrati01/pen/jOmeEMx)         |
 
 ## Repositiory Status
 In future more files will be added
