@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/cssfamily=Open+Sans|Roboto:400,700&display=swap");
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Open Sans", sans-serif;;
+   background: tomato;
+  line-height: 1.5;
+  font-size: 0.875rem;
+  color: white;
+}
+
+.sidebar-toggle{
+  position: fixed;
+  top: 1rem;
+  right: 2rem;
+  font-size: 25px;
+  background: transparent;
+  border-color: transparent;
+  color: black;
+  cursor: pointer;
+}
+.sidebar-toggle:hover{
+   animation: bounce 2s ease-in-out infinite;
+}
+@keyframes bounce {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.close-btn{
+  position: fixed;
+  top: 1rem;
+  right: 1.75rem;
+  font-size: 1.75rem;
+  background: transparent;
+  border-color: transparent;
+  transition: all 0.3s linear;
+  cursor: pointer;
+  color: white;
+}
+.close-btn:hover {
+  color: tomato;
+  transform: rotate(180deg);
+}
+
+.sidebar{
+  position: fixed;
+  top: 0;
+  left:0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: black;
+  width: auto;
+  height: 100%;
+  font-size: 20px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s linear;
+  transform: translate(-100%);
+}
+.show-sidebar {
+  transform: translate(0%);
+}
+
+a{
+  display: block;
+  font-size: 1.5rem;
+  text-transform: capitalize;
+  padding: 0.5rem 2.05rem;
+  color: white;
+  transition: all 0.3s linear;
+}
+a:hover {
+  border-bottom: 1px solid currentColor;
+  color: tomato;
+  padding-left: 1.75rem;
+}
+
+ul{
+  list-style-type: none;
+}
+.social-icons{
+  padding-top: 8rem;
+}
+
+p{
+  position: fixed;
+  font-size: 18px;
+  bottom: 1rem;
+  right: 1rem;
+}
+
+@media screen and (max-width: 676px) {
+  span{
+    display: none;
+  }
+  .show-sidebar {
+  transform: translate(0%);
+}
+}
