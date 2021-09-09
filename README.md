@@ -20,6 +20,7 @@ I have used
 |       6      |          [Review cards](https://github.com/31Sanskrati/CodePen-Design/tree/master/Review%20Cards)            |       [Design](https://codepen.io/Sanskrati01/pen/yLbxboO?editors=0010)         |
 |       7      |          [Counter](https://github.com/31Sanskrati/CodePen-Design/tree/master/Counter)            |       [Design](https://codepen.io/Sanskrati01/pen/PomGOQL?editors=0010)         |
 |       8      |          [Side Navbar](https://github.com/31Sanskrati/CodePen-Design/tree/master/Side%20Navbar)            |       [Design](https://codepen.io/Sanskrati01/pen/jOmeEMx)         |
+|       9      |          [Glitch Effect](https://github.com/31Sanskrati/CodePen-Design/tree/master/Glitch%20Effect)            |       [Design](https://codepen.io/Sanskrati01/pen/rNmzXeP)         |
 
 ## Repositiory Status
 In future more files will be added
