@@ -22,5 +22,17 @@ I have used
 |       8      |          [Side Navbar](https://github.com/31Sanskrati/CodePen-Design/tree/master/Side%20Navbar)            |       [Design](https://codepen.io/Sanskrati01/pen/jOmeEMx)         |
 |       9      |          [Glitch Effect](https://github.com/31Sanskrati/CodePen-Design/tree/master/Glitch%20Effect)            |       [Design](https://codepen.io/Sanskrati01/pen/rNmzXeP)         |
 
+## Images
+- Glitch Effect
+![alt text](https://github.com/31Sanskrati/CodePen-Design/blob/master/Glitch%20Effect/Screenshot%202021-09-11%20233425.png)
+- Tech Website Layout
+![alt text](https://github.com/31Sanskrati/CodePen-Design/blob/master/Tech%20Website%20Layout/Screenshot%202021-09-06%20093719.png)
+- Rock Paper Scissiors game
+![alt text](https://github.com/31Sanskrati/CodePen-Design/blob/master/Rock_Paper_scissors/Screenshot%202021-09-06%20093923.png)
+- Side Navbar
+![alt text](https://github.com/31Sanskrati/CodePen-Design/blob/master/Side%20Navbar/Screenshot%202021-09-06%20094126.png)
+- Review Cards
+![alt text](https://github.com/31Sanskrati/CodePen-Design/blob/master/Review%20Cards/Screenshot%202021-09-06%20093539.png)
+
 ## Repositiory Status
 In future more files will be added
